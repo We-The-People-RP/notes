@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/issues/","noteIcon":"","created":"2026-06-01T23:50:03.361-05:00","updated":"2026-06-02T00:02:15.680-05:00","dg-note-properties":{}}
+{"dg-publish":true,"permalink":"/issues/","created":"2026-06-01T23:50:03.361-05:00","updated":"2026-06-02T00:02:15.680-05:00","dg-note-properties":{}}
 ---
 
 **# Economy / Job Balance Feedback
